@@ -1,5 +1,6 @@
 # git_learn
 Learn basic skills about GitHub 
+Don't be afraid of command line interface
 
 First: Commands for Mac terminal
 
